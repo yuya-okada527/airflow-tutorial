@@ -6,6 +6,7 @@ authors = ["yuya-okada527 <yuya.okada527@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+apache-airflow = "^2.0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
